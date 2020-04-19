@@ -8,7 +8,8 @@ module.exports = {
     "04": "@/entry/04.js",
     "06": "@/entry/06.js",
     "07": "@/entry/07.js",
-    "08": "@/entry/08.js"
+    "08": "@/entry/08.js",
+    "09": "@/entry/09.js"
   },
   resolve: {
     extensions: [".js", ".vue"],
