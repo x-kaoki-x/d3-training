@@ -12,7 +12,7 @@ npm run watch
 ```
 ## アウトプット
 - [4.要素の追加](https://x-kaoki-x.github.io/d3-training/server/04.html)
-- [6.データのバインディング](https://x-kaoki-x.github.io/d3-training/server/05.html)
+- [6.データのバインディング](https://x-kaoki-x.github.io/d3-training/server/06.html)
 - [7.データの使い方](https://x-kaoki-x.github.io/d3-training/server/07.html)
 - [8.DIV 要素の描画](https://x-kaoki-x.github.io/d3-training/server/08.html)
 - [9.data() の力](https://x-kaoki-x.github.io/d3-training/server/09.html)
