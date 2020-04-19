@@ -6,7 +6,8 @@ module.exports = {
   devtool: "source-map",
   entry: {
     "04": "@/entry/04.js",
-    "06": "@/entry/06.js"
+    "06": "@/entry/06.js",
+    "07": "@/entry/07.js"
   },
   resolve: {
     extensions: [".js", ".vue"],
