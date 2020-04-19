@@ -5,7 +5,7 @@ module.exports = {
   mode: "development",
   devtool: "source-map",
   entry: {
-    index: "@/entry/index.js"
+    "04": "@/entry/04.js"
   },
   resolve: {
     extensions: [".js", ".vue"],
