@@ -13,7 +13,8 @@ module.exports = {
     "11": "@/entry/11.js",
     "13": "@/entry/13.js",
     "14": "@/entry/14.js",
-    "15": "@/entry/15.js"
+    "15": "@/entry/15.js",
+    "16": "@/entry/16.js"
   },
   resolve: {
     extensions: [".js", ".vue"],
